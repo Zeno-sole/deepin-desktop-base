@@ -859,19 +859,19 @@
 			"CountryCode": ""
 		},
 		{
-			"Locale": "kab_DZ.UTF-8",
+			"Locale": "kab_DZ",
 			"Description": "Kabyle",
 			"LangCode": "kab",
 			"CountryCode": "DZ"
 		},
 		{
-			"Locale": "az_AZ.UTF-8",
+			"Locale": "az_AZ",
 			"Description": "Azerbaijani",
 			"LangCode": "az",
 			"CountryCode": "AZ"
 		},		
 		{
-			"Locale": "fil_PH.UTF-8",
+			"Locale": "fil_PH",
 			"Description": "Filipino",
 			"LangCode": "fil",
 			"CountryCode": "PH"
